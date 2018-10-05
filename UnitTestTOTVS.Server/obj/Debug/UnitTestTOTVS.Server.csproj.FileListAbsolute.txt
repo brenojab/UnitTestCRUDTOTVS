@@ -1,0 +1,11 @@
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\UnitTestTOTVS.Server.dll
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\UnitTestTOTVS.Server.pdb
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\UnitTestTOTVS.Data.dll
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\UnitTestTOTVS.Data.pdb
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\obj\Debug\UnitTestTOTVS.Server.csprojAssemblyReference.cache
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\obj\Debug\UnitTestTOTVS.Server.csproj.CoreCompileInputs.cache
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\obj\Debug\UnitTestTOTVS.Server.csproj.CopyComplete
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\obj\Debug\UnitTestTOTVS.Server.dll
+C:\Users\breno.batista\source\repos\UnitTestCRUDTOTVS\unittestcrudtotvs\UnitTestTOTVS.Server\obj\Debug\UnitTestTOTVS.Server.pdb

@@ -47,6 +47,7 @@
     <Compile Include="Constants.cs" />
     <Compile Include="DataAccess.cs" />
     <Compile Include="Interfaces\IDataAccess.cs" />
+    <Compile Include="Interfaces\IDataServices.cs" />
     <Compile Include="Models\BaseModel.cs" />
     <Compile Include="Models\Esportista.cs" />
     <Compile Include="Models\Pessoa.cs" />
